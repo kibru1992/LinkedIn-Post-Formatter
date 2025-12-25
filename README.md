@@ -2,8 +2,6 @@
 
 A professional Chrome Extension designed to transform standard LinkedIn text into attention-grabbing premium styles using Unicode mathematical characters. Elevate your personal branding without needing external formatting tools.
 
-(public/icons/icon128.png)
-
 ## Key Features
 
 - **Instant Auto-Formatting**: Toggle between **Bold**, *Italic*, ***Bold Italic***, and `Monospace` with a live preview.
