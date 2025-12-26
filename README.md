@@ -42,6 +42,3 @@ This tool follows high-end Chrome Web Store standards, featuring:
 - **Micro-animations**: Smooth transitions for every interactive state.
 - **Native Experience**: Optimized scrollbars and layouts for a built-in browser feel.
 
-## License
-
-MIT License. Developed for professional LinkedIn creators.
